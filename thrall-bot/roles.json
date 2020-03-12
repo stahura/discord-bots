@@ -1,0 +1,52 @@
+{
+  "Töb": {
+    "Class": "Druid",
+    "Profession": ["Skinning", "Mining"],
+    "Roles": ["Tanking", "Healing", "DPS"]
+  },
+  "Talimondras": {
+    "Class": "Warrior",
+    "Profession": ["Mining", "Blacksmithing", "First Aid", "Cooking"],
+    "Roles": ["DPS"]
+  },
+  "Morotar": {
+    "Class": "Shaman",
+    "Profession": ["Skinning", "Leatherworking"],
+    "Roles": ["Healing", "DPS"]
+  },
+  "Dreken": {
+    "Class": "Warrior",
+    "Profession": [],
+    "Roles": ["Tanking", "DPS"]
+  },
+  "Deimøs": {
+    "Class": "Mage",
+    "Profession": [],
+    "Roles": ["DPS"]
+  },
+  "Leafblighter": {
+    "Class": "Shaman",
+    "Profession": ["Herbalism", "Alchemy"],
+    "Roles": ["Healing", "DPS"]
+  },
+  "Alsvin": {
+    "Class": "Hunter",
+    "Profession": ["Herbalism", "Alchemy"],
+    "Roles": ["DPS"]
+  },
+  "Jefukira": {
+    "Class": "Hunter",
+    "Profession": ["Mining"],
+    "Roles": ["DPS"]
+  },
+  "Giggleworth": {
+    "Class": "Priest",
+    "Profession": ["Tailoring"],
+    "Roles": ["Healing"]
+  },
+  "Magorotage": {
+    "Class": "Warrior",
+    "Profession": ["Engineering", "Mining"],
+    "Roles": ["Tanking"]
+  }
+}
